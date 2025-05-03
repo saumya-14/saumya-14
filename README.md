@@ -9,7 +9,7 @@ I'm a passionate and results-driven software developer with a knack for problem-
 * 🌍  I'm based in india
 * ✉️  You can contact me at [saumya140904@gmail.com](mailto:saumya140904@gmail.com)
 * 💼  Current Role: Full Stack Developer Intern @Bearconnct
-* 🧠  I'm learning TypeScript
+* 🧠  Open To: New opportunities and roles
 * 🤝  I'm open to collaborating on OPEN SOURCE PROJECTS
 
 ### Skills
