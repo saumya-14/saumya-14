@@ -1,16 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saumya Shrivastava
 ==========================================================================================================================================
 
-Web Developer
--------------
+Full Stack Web Developer
+-----------------------
 
-I'm a passionate and results-driven software developer with a knack for problem-solving and a love for clean, efficient code. My journey in the tech world has been fueled by a relentless curiosity, driving me to explore the depths of programming and build innovative solutions.
+I’m a results-driven Full Stack Developer with hands-on experience building and optimizing **production-grade web applications** at early-stage startups. I’ve worked across frontend and backend systems, focusing on **scalable UI architectures, performance optimization, and reliable feature delivery**.
 
-* 🌍  I'm based in india
-* ✉️  You can contact me at [saumya140904@gmail.com](mailto:saumya140904@gmail.com)
-* 💼  Current Role: Full Stack Developer Intern @Bearconnct
-* 🧠  Open To: New opportunities and roles
-* 🤝  I'm open to collaborating on OPEN SOURCE PROJECTS
+My experience includes developing reusable components, shipping end-to-end product features, redesigning performance-critical workflows, and improving backend stability through testing and refactoring. I enjoy working on complex systems where clean architecture and efficiency matter.
+
+* 🌍  Based in India  
+* ✉️  Contact: [saumya140904@gmail.com](mailto:saumya140904@gmail.com)  
+* 💼  Current Role: Software Developer Intern @ Groie 
+* 🧠  Open To: SDE / Full Stack / Frontend roles  
+* 🤝  Open to collaborating on open-source and impactful projects
+
 
 ### Skills
 
